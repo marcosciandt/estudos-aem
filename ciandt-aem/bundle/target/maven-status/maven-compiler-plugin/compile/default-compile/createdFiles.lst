@@ -1,0 +1,5 @@
+com/ciandt/aem/impl/filters/LoggingFilter.class
+com/ciandt/aem/sling/CRXLoginSlingServlet.class
+com/ciandt/aem/impl/HelloServiceImpl.class
+com/ciandt/aem/package-info.class
+com/ciandt/aem/HelloService.class
